@@ -1,1 +1,1 @@
-This is my personal project of a 2D Java Game where i used only Java. The templates(sprites) are not included in this repository. 
+This is my personal project of a 2D Java Game where i used only Java. The templates(sprites) are not included in this repository. Here you can acknowledge more about my project https://codrin-hash.github.io/My-Resume/public/The%20Ring.pdf . Enjoy and leave a review!
